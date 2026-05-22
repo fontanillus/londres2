@@ -1,7 +1,6 @@
 // Datos de las imágenes con títulos, descripciones y características
 const images = [
 	new Fotos("./img/despegando (2).png", "Despegando de Barcelona", "Inicio del viaje hacia Londres", ["Primer día", "Barcelona-Londres", "Duración del vuelo: 2h 30m", "Londres: Capital de Reino Unido"]),
-	new Fotos("./img/londres (1).png", "Llegada a Londres", "Primeras vistas de la ciudad", ["Minomi en Londres", "Vistas desde el avión", "Emoción por descubrir la ciudad", "Londres desde el cielo"]),
 	new Fotos("./img/londres (2).png", "Vista de Londres desde una mochila", "Una perspectiva única de la ciudad", ["Minomi aventurero", "Viajero", "Curioso", "Explorador urbano"]),
 	new Fotos("./img/catedral.png", "Catedral de Westminster", "Uno de los monumentos más icónicos de Londres", ["Construida entre 1895 y 1903", "Sede principal de la Iglesia católica en Inglaterra", "Arquitectura neobizantina", "Importante lugar religioso y turístico de Londres"]),
 	new Fotos("./img/bigben.png", "El Big Ben de Londres", "La famosa torre del reloj", ["Inaugurado en 1859", "Torre más famosa de Londres", "Símbolo histórico del Reino Unido", "Ubicado junto al Parlamento británico"]),
